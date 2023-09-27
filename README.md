@@ -1,4 +1,4 @@
-# DSD_Project_CORBA
+# Distributed Movie Theatre System With High Availability , crash recovery and software failures handling, 
 
 This is a robust and resilient system designed to ensure continuous functionality in a distributed theater environment. It consists of three server components, allowing it to keep providing responses even if one server fails.
 
